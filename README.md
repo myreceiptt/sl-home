@@ -12,13 +12,10 @@
 
 > Here are some ideas to get you started:
 
-Click and BOMB!!!!
+Rest in Proxy (R.I.P.) MyReceipt!!!! Since home is all he wanted to be, so this is a home for him in 0101 Universe, even just a straight line of my origin.
 
 > Regards
-> 
+>
 > [Prof. NOTA](https://deeplinks.straight-line.org/)
-> 
+>
 > [init.straight-line.org](https://init.straight-line.org/)
-> 
-
-

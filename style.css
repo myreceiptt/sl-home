@@ -15,7 +15,9 @@ body > .dg {
 }
 @media (min-width: 1000px) {
   body {
-    background-image: url('');
+    background-image: url("");
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
   }
   body > .dg {
@@ -32,14 +34,20 @@ body > .dg {
   display: block;
   height: 28px;
 }
-.twitter {
+.deeplinks {
   position: fixed;
   display: block;
   right: 64px;
   bottom: 14px;
 }
-.twitter svg {
+.deeplinks svg {
   width: 32px;
   height: 32px;
-  fill: #1da1f2;
+  fill: #ffffff;
+}
+.deeplinks svg:hover {
+  fill: #ff0074;
+}
+a:link {
+  text-decoration: none;
 }
