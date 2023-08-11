@@ -12,7 +12,7 @@
 
 > Here are some ideas to get you started:
 
-Rest in Proxy (R.I.P.) MyReceipt!!!! Since home is all he wanted to be, so this is a home for him in 0101 Universe, even just a straight line of my origin.
+MyReceipt Rest in Proxy (R.I.P.)!!!! Since a home is all he wanted to be, so this is a home for him in 0101 Universe, even just a straight line of my origin.
 
 > Regards
 >
