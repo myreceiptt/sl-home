@@ -1,6 +1,6 @@
-// @MyReceipt would you like to thanks to Mr. Tamino Martinius for the script.
+// MyReceipt ask us to thanks to Mr. Tamino Martinius for the script.
 
-// I hope everyone enjoy it! Please drop NFT, not BOMB!
+// We hope everyone enjoy it! Please drop NFT, not BOMB!
 
 // Surabaya, 13 Mar. 2022
 
