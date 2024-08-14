@@ -58,7 +58,7 @@ var initCursorBomb = (function () {
   cbScript.addEventListener
     ? cbScript.addEventListener("load", init, false)
     : (cbScript.onload = init);
-  cbScript.src = "/bomb.js";
+  cbScript.src = "./bomb.js";
   cbScript.setAttribute("type", "text/javascript");
   document.body.appendChild(cbScript);
 })(
