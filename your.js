@@ -17,28 +17,7 @@ var init = function () {
     height: 1e9,
   });
 
-  // var gui = new dat.GUI();
-  gui
-    .add(cb, "ptlGap")
-    .min(0)
-    .max(5)
-    .step(1)
-    .onChange(function () {
-      cb.init(true);
-    });
-  gui
-    .add(cb, "ptlSize")
-    .min(1)
-    .max(5)
-    .step(1)
-    .onChange(function () {
-      cb.init(true);
-    });
-  gui.add(cb, "restless");
-  gui.addColor(cb, "color").onChange(function (value) {
-    cb.monochrome = true;
-    cb.setColor(value);
-  });
+  // GUI controls are intentionally disabled for end users.
 
   window.addEventListener
     ? window.addEventListener(
